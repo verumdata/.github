@@ -4,6 +4,7 @@
 
 - Sitio: [verumdata.cl](https://verumdata.cl)
 - Reportería mensual para pymes, con la mantención incluida: [verumdata.cl/reporteria-pymes-santiago](https://verumdata.cl/reporteria-pymes-santiago)
+- Plantilla SQL abierta de reportería mensual (ventas, cobranza y cierre de mes): [reporteria-pymes](https://github.com/verumdata/reporteria-pymes)
 - Power BI y SQL Server: [verumdata.cl/power-bi-sql-server](https://verumdata.cl/power-bi-sql-server)
 - Caso publicado: [una clínica veterinaria](https://verumdata.cl/caso-clinica-veterinaria)
 - Preguntas frecuentes: [verumdata.cl/preguntas-frecuentes](https://verumdata.cl/preguntas-frecuentes)
